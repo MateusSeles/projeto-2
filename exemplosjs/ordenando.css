@@ -1,0 +1,20 @@
+.geral {
+    margin-left: 15vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+.formulario{
+    background-position: center;
+    text-align: justify;
+    padding: 20px;
+    width: 50%;
+    background-color: rgb(114, 134, 134);
+    width: 70vw;
+    height: 90vh;
+}
+.formulario button{
+    margin-top: 20px;
+}
