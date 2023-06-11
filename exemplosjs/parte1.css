@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+:root {
+    --fonte1: Arial, Helvetica, sans-serif;
+    --fonte2: 'Sriracha', cursive;
+}
+
+h1 {
+    font-family: var(--fonte2);
+    margin-bottom: 100px;
+    background-image: radial-gradient(rgb(92, 55, 55), white);
+    color: black;
+}
+
+.geral {
+    margin-left: 15vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+.formulario{
+    background-position: center;
+    text-align: justify;
+    padding: 20px;
+    width: 50%;
+    background-color: rgb(114, 134, 134);
+    width: 70vw;
+    height: 90vh;
+}
+.formulario button{
+    margin-top: 20px;
+}
